@@ -6,9 +6,9 @@ const CACHE_NAME = `${APP_PREFIX}${VERSION}`;
 // Keep the precache minimal and resilient; add more known files as desired.
 const PRECACHE = [
   '/Markapuram/',
-  '/Markapuram/index.html',
-  '/Markapuram/qgis2web.js',
-  '/Markapuram/qgis2web.css'
+  '/Markapuramresurvey/index.html',
+  '/Markapuramresurvey/qgis2web.js',
+  '/Markapuramresurvey/qgis2web.css'
 ];
 
 // Install: add known essentials, but don't fail if some files are missing
