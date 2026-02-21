@@ -5,7 +5,7 @@ const CACHE_NAME = `${APP_PREFIX}${VERSION}`;
 
 // Keep the precache minimal and resilient; add more known files as desired.
 const PRECACHE = [
-  '/Markapuram/',
+  '/Markapuramresurvey/',
   '/Markapuramresurvey/index.html',
   '/Markapuramresurvey/qgis2web.js',
   '/Markapuramresurvey/qgis2web.css'
